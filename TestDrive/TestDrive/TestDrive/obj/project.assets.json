@@ -563,11 +563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
       "projectName": "TestDrive",
-      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
+      "projectPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

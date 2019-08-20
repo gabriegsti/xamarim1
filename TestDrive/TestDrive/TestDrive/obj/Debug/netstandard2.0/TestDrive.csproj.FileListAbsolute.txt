@@ -12,3 +12,17 @@ C:\Users\Gabriel\source\repos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandar
 C:\Users\Gabriel\source\repos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
 C:\Users\Gabriel\source\repos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\DetalheView.xaml.g.cs
 C:\Users\Gabriel\source\repos\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\AgendamentoView.xaml.g.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.deps.json
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.dll
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\bin\Debug\netstandard2.0\TestDrive.pdb
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csprojAssemblyReference.cache
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\AgendamentoView.xaml.g.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\DetalheView.xaml.g.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\Views\ListagemView.xaml.g.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.dll
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive\obj\Debug\netstandard2.0\TestDrive.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj": {}
+    "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
         "projectName": "TestDrive.iOS",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive.iOS\\TestDrive.iOS.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive.iOS\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
-                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
+              "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
+                "projectPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
+    "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
         "projectName": "TestDrive",
-        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
+        "projectPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\TestDrive.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\TestDrive\\TestDrive\\TestDrive\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel\\source\\repos\\xamarim1\\TestDrive\\TestDrive\\TestDrive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
