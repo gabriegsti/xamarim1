@@ -502,7 +502,6 @@ C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin\Debug\com.companyname.testdrive-Signed.apk
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.pdb
-C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll.mdb
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\build.props
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\adb.props
@@ -994,3 +993,4 @@ C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Gabriel\source\repos\xamarim1\TestDrive\TestDrive\TestDrive.Android\bin\Debug\TestDrive.dll.mdb
